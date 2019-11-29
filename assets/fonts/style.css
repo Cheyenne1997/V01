@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Roboto-Light';
+   font-display: swap;
+   src: url('Roboto-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Roboto-Thin';
+   font-display: swap;
+   src: url('Roboto-Thin/font.ttf');
+}
